@@ -1,3 +1,4 @@
-# GO
+# go
 Code written in go 
-# GO
+# go
+
